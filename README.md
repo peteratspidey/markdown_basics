@@ -24,9 +24,18 @@ this repo contains how to learn and implement Markdown for various purposes
 # Lists 
 
 1. ordered
-   
+
+   ` * item1`
+
+   ` * item2`
+
+      ` *subitems1`
+
+      ` *subitem2`
+
 3. unordered
 
+   
 4. task lists
 
    `-item 1`
