@@ -35,6 +35,6 @@ this repo contains how to learn and implement Markdown for various purposes
 
    `-item2`
 
-       `-subitems2`
+      `-subitems2`
 
    `-item3`
