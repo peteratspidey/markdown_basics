@@ -47,3 +47,10 @@ this repo contains how to learn and implement Markdown for various purposes
       `-subitems2`
 
    `-item3`
+## 5. use code block
+` `` `
+## 6. use code block 
+` ```bash
+body 
+```
+`
