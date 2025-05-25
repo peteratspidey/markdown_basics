@@ -49,5 +49,5 @@ this repo contains how to learn and implement Markdown for various purposes
    `-item3`
 ## 5. use code block
 ` `` `
-## 6. use code block 
+## 6. use code block for whole code body
 ## ```
