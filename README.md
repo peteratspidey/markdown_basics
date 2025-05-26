@@ -51,3 +51,6 @@ this repo contains how to learn and implement Markdown for various purposes
 ` `` `
 ## 6. use code block for whole code body
 ## ```
+## to use the link
+`[LINK TEXT] (https://www.google.com)`
+replace the word link text with the word u want and replace the link of the website with ur link
