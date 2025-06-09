@@ -90,4 +90,6 @@ the code body
 > u can replace the word alt text with any keyword u want and change url to the link where the image is stored
 
 ## emoji's
-:+1:
+:+1: 
+* `:+1:` is used to print thumbs up
+* for more emoji use `:` then then after typing any keyword git will give u suggestions 
