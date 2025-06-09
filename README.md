@@ -33,7 +33,6 @@ for 6th head
 1. ordered
 
    ` 1. item1 `
-
    ` 2. item2`
 
       ` 1. subitems1`
@@ -50,7 +49,7 @@ for 6th head
 
       ` * subitem 2`
       
-5. task lists
+4. task lists
 
    `- item 1`
 
