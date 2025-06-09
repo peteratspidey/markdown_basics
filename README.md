@@ -90,4 +90,4 @@ the code body
 > u can replace the word alt text with any keyword u want and change url to the link where the image is stored
 
 ## emoji's
-:+1
+:+1:
