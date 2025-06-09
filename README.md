@@ -25,41 +25,62 @@ this repo contains how to learn and implement Markdown for various purposes
 
 1. ordered
 
-   ` 1. item1`
+   ` 1. item1 `
 
    ` 2. item2`
 
-      ` 1. subitems1`
-
-      ` 2. subitem2`
+          ` 1. subitems1`
+  
+          ` 2. subitem2`
 
 3. unordered
 
    ` * item 1 `
+   
    ` * item 2 `
-      ` * subitem 1`
-      ` * subitem 2`
+
+             ` * subitem 1`
+
+             ` * subitem 2`
       
 5. task lists
 
-   `-item 1`
+   `- item 1`
 
-     `-subtiems1`
+           `- subtiems1`
 
-   `-item2`
+   `- item2`
 
-      `-subitems2`
+           `- subitems2`
 
-   `-item3`
+   `- item3`
+
+   
 ***another type***
 
    `[x] item 1 done `
+   
+   
    `[x] item 2 done `
+   
+   
    `[ ] item 3 undone `
+
+   
 ## 5. use code block
-\` \`
+\` quote\`
+
 ## 6. use code block for whole code body
-## ```
+
+\```bash\ 
+> write first line like this. starts with the 3 backtick and mention the type of code u are going to write ( bash, R ,python etc)
+
+\the code body\
+> second line starts with the code body
+
+\```\
+>end with 3 backtick
+
 ## to use the link
 `[LINK TEXT] (https://www.google.com)`
 replace the word link text with the word u want and replace the link of the website with ur link
