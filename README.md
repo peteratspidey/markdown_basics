@@ -93,3 +93,10 @@ the code body
 :+1: 
 * `:+1:` is used to print thumbs up
 * for more emoji use `:` then then after typing any keyword git will give u suggestions 
+
+
+## table print
+first header | second header
+------------ | -------------
+R1C1 | R1C2
+R2Cl | R2C2
