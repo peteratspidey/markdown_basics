@@ -57,7 +57,7 @@ this repo contains how to learn and implement Markdown for various purposes
    `[x] item 2 done `
    `[ ] item 3 undone `
 ## 5. use code block
-` `` `
+\` \`
 ## 6. use code block for whole code body
 ## ```
 ## to use the link
