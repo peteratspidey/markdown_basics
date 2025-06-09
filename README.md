@@ -72,7 +72,7 @@ this repo contains how to learn and implement Markdown for various purposes
 
 ## 6. use code block for whole code body
 
-\```bash\```
+\```bash
 > write first line like this. starts with the 3 backtick and mention the type of code u are going to write ( bash, R ,python etc)
 
 \the code body\
