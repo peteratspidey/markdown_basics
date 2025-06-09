@@ -66,6 +66,12 @@ this repo contains how to learn and implement Markdown for various purposes
    
    `[ ] item 3 undone `
 
+   [x] item 1 done 
+   
+   [x] item 2 done 
+   
+   [ ] item 3 undone 
+
    
 ## 5. use code block
 \` quote\`
