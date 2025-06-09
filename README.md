@@ -75,12 +75,19 @@ this repo contains how to learn and implement Markdown for various purposes
 \```bash
 > write first line like this. starts with the 3 backtick and mention the type of code u are going to write ( bash, R ,python etc)
 
-\the code body\
+the code body
 > second line starts with the code body
 
-\```\
+\```
 >end with 3 backtick
 
 ## to use the link
-`[LINK TEXT] (https://www.google.com)`
-replace the word link text with the word u want and replace the link of the website with ur link
+`[LINK TEXT](https://www.google.com)`
+> replace the word link text with the word u want and replace the link of the website with ur link
+
+## to insert the image into a markdown text
+`![Alt text](URL)`
+> u can replace the word alt text with any keyword u want and change url to the link where the image is stored
+
+## emoji's
+:+1
