@@ -1,25 +1,32 @@
 # markdown_basics
 this repo contains how to learn and implement Markdown for various purposes 
-
+## how to add headings 
 `# headings`
-
+for first heading
 `## h2 `
-
+for second head
 `### h3`
-
+for third head
 `#### h4`
-
+for 4th head
 `##### h5`
-
+for 5th head
 `###### h6`
+for 6th head
+
+> markdown only supports upto 6 headings
 
 # text formatting
 
 `*italic*`
+> use `*` single asterisk for italic format
 
 `**bold**`
+> use `**` double asterisk for bold text
 
 `***bold and italic***`
+> use `***` triple asterisk for bold and italic
+
 
 # Lists 
 
@@ -29,9 +36,9 @@ this repo contains how to learn and implement Markdown for various purposes
 
    ` 2. item2`
 
-         ` 1. subitems1`
+      ` 1. subitems1`
 
-         ` 2. subitem2`
+      ` 2. subitem2`
 
 3. unordered
 
@@ -39,19 +46,19 @@ this repo contains how to learn and implement Markdown for various purposes
    
    ` * item 2 `
 
-         ` * subitem 1`
+      ` * subitem 1`
 
-         ` * subitem 2`
+      ` * subitem 2`
       
 5. task lists
 
    `- item 1`
 
-         `- subtiems1`
+      `- subtiems1`
 
    `- item2`
 
-         `- subitems2`
+      `- subitems2`
 
    `- item3`
 
@@ -60,11 +67,11 @@ this repo contains how to learn and implement Markdown for various purposes
 
    `- [x] item 1 done `
    
-   
    `- [x] item 2 done `
    
-   
    `- [ ] item 3 undone `
+
+> output
 
    - [x] item 1 done 
    
