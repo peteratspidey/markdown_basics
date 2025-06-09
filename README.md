@@ -32,33 +32,33 @@ for 6th head
 
 1. ordered
 
-   ` 1. item1 `
+` 1. item1 `
 
-   ` 2. item2`
+` 2. item2`
 
-      ` 1. subitems1`
-
-      ` 2. subitem2`
+   ` 1. subitems1`
+   
+   ` 2. subitem2`
 
 3. unordered
 
-   ` * item 1 `
-   
-   ` * item 2 `
+` * item 1 `
 
-      ` * subitem 1`
+` * item 2 `
 
-      ` * subitem 2`
+   ` * subitem 1`
+
+   ` * subitem 2`
       
 4. task lists
 
-   `- item 1`
+`- item 1`
 
-      `- subtiems1`
+   `- subtiems1`
 
-   `- item2`
+`- item2`
 
-      `- subitems2`
+   `- subitems2`
 
    `- item3`
 
