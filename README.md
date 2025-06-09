@@ -36,15 +36,19 @@ this repo contains how to learn and implement Markdown for various purposes
    ` * item 1 `
    
    ` * item 2 `
+
       ` * subitem 1`
+
       ` * subitem 2`
       
 5. task lists
 
    `- item 1`
+
       `- subtiems1`
 
    `- item2`
+
       `- subitems2`
 
    `- item3`
