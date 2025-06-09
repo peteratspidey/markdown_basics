@@ -69,6 +69,7 @@ this repo contains how to learn and implement Markdown for various purposes
    
 ## 5. use code block
 \` quote\`
+> starts with '`' single backtick and ends with single backtick 
 
 ## 6. use code block for whole code body
 
@@ -79,7 +80,7 @@ the code body
 > second line starts with the code body
 
 \```
->end with 3 backtick
+> end with 3 backtick
 
 ## to use the link
 `[LINK TEXT](https://www.google.com)`
