@@ -28,8 +28,10 @@ this repo contains how to learn and implement Markdown for various purposes
    ` 1. item1 `
 
    ` 2. item2`
-      ` 1. subitems1`
-      ` 2. subitem2`
+
+         ` 1. subitems1`
+
+         ` 2. subitem2`
 
 3. unordered
 
@@ -37,19 +39,19 @@ this repo contains how to learn and implement Markdown for various purposes
    
    ` * item 2 `
 
-      ` * subitem 1`
+         ` * subitem 1`
 
-      ` * subitem 2`
+         ` * subitem 2`
       
 5. task lists
 
    `- item 1`
 
-      `- subtiems1`
+         `- subtiems1`
 
    `- item2`
 
-      `- subitems2`
+         `- subitems2`
 
    `- item3`
 
