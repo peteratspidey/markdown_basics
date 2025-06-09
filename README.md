@@ -25,18 +25,22 @@ this repo contains how to learn and implement Markdown for various purposes
 
 1. ordered
 
-   ` * item1`
+   ` 1. item1`
 
-   ` * item2`
+   ` 2. item2`
 
-      ` *subitems1`
+      ` 1. subitems1`
 
-      ` *subitem2`
+      ` 2. subitem2`
 
 3. unordered
 
-   
-4. task lists
+   ` * item 1 `
+   ` * item 2 `
+      ` * subitem 1`
+      ` * subitem 2`
+      
+5. task lists
 
    `-item 1`
 
@@ -47,6 +51,11 @@ this repo contains how to learn and implement Markdown for various purposes
       `-subitems2`
 
    `-item3`
+***another type***
+
+   `[x] item 1 done `
+   `[x] item 2 done `
+   `[ ] item 3 undone `
 ## 5. use code block
 ` `` `
 ## 6. use code block for whole code body
