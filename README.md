@@ -1,7 +1,7 @@
 # markdown_basics
 this repo contains how to learn and implement Markdown for various purposes 
 ## how to add headings 
-`# headings`
+`# headings` # is used in starting for the headings
 for first heading
 `## h2 `
 for second head
@@ -19,17 +19,17 @@ for 6th head
 # text formatting
 
 `*italic*`
-> use `*` single asterisk for italic format
+> use `*` single asterisk for italic format in the start and end
 
 `**bold**`
-> use `**` double asterisk for bold text
+> use `**` double asterisk for bold text in start and end
 
 `***bold and italic***`
-> use `***` triple asterisk for bold and italic
+> use `***` triple asterisk for bold and italic in start and end 
 
 
 # Lists 
-
+> use number and then dot 
 1. ordered
 
 ` 1. item1 `
@@ -41,7 +41,7 @@ for 6th head
    ` 2. subitem2`
 
 3. unordered
-
+> use * for bullets
 ` * item 1 `
 
 ` * item 2 `
@@ -51,7 +51,7 @@ for 6th head
    ` * subitem 2`
       
 4. task lists
-
+ use hyphen for tasks
 `- item 1`
 
    `- subtiems1`
@@ -64,7 +64,7 @@ for 6th head
 
    
 ***another type***
-
+use sqaure bracket with x for complete and blank for uncomplete
    `- [x] item 1 done `
    
    `- [x] item 2 done `
@@ -101,7 +101,7 @@ the code body
 
 ## to insert the image into a markdown text
 `![Alt text](URL)`
-> u can replace the word alt text with any keyword u want and change url to the link where the image is stored
+> u can replace the word alt text with any keyword u want and change url to the link where the image is stored or with the path of the image
 
 ## emoji's
 :+1: 
